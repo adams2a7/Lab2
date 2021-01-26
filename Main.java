@@ -24,6 +24,10 @@ class Main {
 
   System.out.println("Sum: " + Sum);
 
+  System.out.println("Blue over Brown and Red over Orange " + (blue>brown && red>orange)); 
+  System.out.println("Brown is less than or equal to Green " + (brown<=green));
+  System.out.println("Sum is equal to Total " + (Sum==totalMM)); 
+
  
   
 
